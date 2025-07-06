@@ -2,24 +2,26 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">🌐Social Media</h2>
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/t%C3%A1ciomoreira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:moreiravini144@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
 <h2 align="left">Techs</h2>
+
+###
+
+<h2 align="left">💻Techs</h2>
 
 ###
 
@@ -38,7 +40,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">📊Stats</h2>
 
 ###
 
