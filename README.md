@@ -1,10 +1,12 @@
-<h2 align="center">👨🏻‍💻Tácio Moreira</h2>
+<h2 align="center">Tácio Moreira</h2>
 
 ###
 
 <h2 align="left">Social Media</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/t%C3%A1ciomoreira/" target="_blank">
